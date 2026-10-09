@@ -1,0 +1,8 @@
+{
+  "name": "Remix PIXORA",
+  "description": "Plataforma de diseño online moderna, sencilla e intuitiva para crear posts, miniaturas, carteles y recursos visuales impactantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
